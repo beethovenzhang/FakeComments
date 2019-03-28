@@ -4,8 +4,8 @@ A small project for React exercise. Shows a couple of fake comments.
 
 ## Useful websites for small projects
 
--Free and handy styling: [Semantic UI](http://semantic-ui.com)
--Generating all kinds of fake data for development purpose: [faker](https://www.npmjs.com/package/faker)
+- Free and handy styling: [Semantic UI](http://semantic-ui.com)
+- Generating all kinds of fake data for development purpose: [faker](https://www.npmjs.com/package/faker)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
