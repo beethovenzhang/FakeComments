@@ -1,3 +1,13 @@
+# FakeComments
+
+A small project for React exercise. Shows a couple of fake comments.
+
+## Useful websites for small projects
+
+-Free and handy styling: [Semantic UI](http://semantic-ui.com)
+-Generating all kinds of fake data for development purpose: [faker](https://www.npmjs.com/package/faker)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +76,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# FakeComments
+
